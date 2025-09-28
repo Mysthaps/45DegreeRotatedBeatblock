@@ -1,0 +1,14 @@
+{
+	"id": "rot",
+	"name": "rotation",
+	"display_name": "45 Degree Rotated Balatro",
+	"author": ["notmario"],
+	"description": "makes the game Horrendous",
+	"prefix": "",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "00FFFF",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0.0",
+	"dependencies": []
+}
